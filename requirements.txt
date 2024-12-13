@@ -1,0 +1,4 @@
+langchain 
+pandas 
+faiss-cpu 
+flagai
